@@ -2,7 +2,7 @@
  * Problem: Plus One
  * Difficulty: Easy
  * Runtime: 60 ms
- * Date: 2018/03/31
+ * Date: 2018/04/03
  * Author: Aonan He
  */
 /**
